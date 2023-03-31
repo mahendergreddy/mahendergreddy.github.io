@@ -50,7 +50,7 @@
     ],
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "https://mahender.me/sitemap.xml",
+    "siteUrl": "https://mahendergreddy.github.io/sitemap.xml",
     "sitemapSwitcherAuto": "on",
     "favicon": false,
     "noImageResize": "",
@@ -79,7 +79,7 @@
     "versionPublish": "5.6.8",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "mbrsiteDomain": "auams25ce6"
+    "mbrsiteDomain": "pgleyr1nbs"
   },
   "pages": {
     "index.html": {
