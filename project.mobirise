@@ -80,7 +80,7 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "mbrsiteDomain": "utv3y7vf8b",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
