@@ -54,7 +54,7 @@
     "sitemapSwitcherAuto": "on",
     "favicon": false,
     "noImageResize": "",
-    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VFYKP3ST5C\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-VFYKP3ST5C');\n</script>",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-119585671-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-119585671-1');\n</script>",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -79,7 +79,7 @@
     "versionPublish": "5.6.8",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "mbrsiteDomain": "9cspgh4b97",
+    "mbrsiteDomain": "9azqfbi3xq",
     "publishChangesOnly": false
   },
   "pages": {
